@@ -10,5 +10,5 @@ profile_picture:
 </p>
 
 <p>
-  You can find the source code and the instructions on <a href="https://github.com/eliottvincent/bay">GitHub</a>.
+I will be seeking a data analyst position in industry within the tri-state area (NYC + surrounding areas) beginning Summer 2025
 </p>
