@@ -15,18 +15,7 @@ items:
     image:
       src: /assets/img/work/street crossing headphones.png
       alt: streetcrossing
-    description: • Motion perception is a key aspect of sensory processing that enables animals to interact
-with their environment
-• While there is extensive research on visual motion psychophysics, little is known about
-how auditory and audiovisual motion are perceptually processed
-• Non-human primate (NHP) studies in particular offer a unique opportunity to link
-perceptual processes to underlying neural mechanisms
-• MY GOAL IS to characterize how low-level stimulus features influence perception of
-auditory and audiovisual motion in awake, behaving non-human primates
-• MY RESEARCH QUESTIONS ARE...
-• Under what conditions is perception sensitivity to auditory and visual motion equivalent?
-• Characterize audiovisual motion perception and its relationship to auditory and visual
-motion perception
+    description:  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 ---
 
 This is an example of a "Work" page, displaying your work, your interests, your projects.

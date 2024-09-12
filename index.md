@@ -1,12 +1,12 @@
 ---
 layout: home
 profile_picture:
-  src: /assets/img/profile-pic.jpg
+  src: /assets/img/adriana-headshot.jpg
   alt: website picture
 ---
 
 <p>
-  Welcome! This site serves as an example for the Bay Jekyll theme. Bay is a very simple and minimal theme, directly inspired by Dan Grover's <a href="http://dangrover.com">website</a>.
+   Nice to meet you! I'm a 6th year Neuroscience PhD student at Vanderbilt University studying auditory, visual, and audiovisual perceptual processing in humans and non-human primates. I am also passionate about design and animal rescue. 
 </p>
 
 <p>
